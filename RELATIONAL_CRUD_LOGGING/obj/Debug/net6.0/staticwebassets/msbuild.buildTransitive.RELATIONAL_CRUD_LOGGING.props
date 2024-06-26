@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RELATIONAL_CRUD_LOGGING.props" />
+</Project>
