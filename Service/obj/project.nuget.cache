@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gm0eOzJ58XSxXTw91Vik/tfBqoQwzsLZz7tUsfg1ZT1wugk/fpFi3cwB10O882nYQwST86DPmpuqf2QiQdEDtQ==",
+  "dgSpecHash": "6vhQRyIm1oVYuVB3Ek7sbgUttndK88YNlLwVSC8cBNUNsCyNdKXpkKQQqq4EPRM0ohhH3fNWn78rF/sIgmxCAA==",
   "success": true,
-  "projectFilePath": "C:\\API (epiay)\\RELATIONAL_CRUD_LOGGING\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\Hacixanov\\Desktop\\-RELATIONAL_CRUD_LOGGING\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hacixanov\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Hacixanov\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",

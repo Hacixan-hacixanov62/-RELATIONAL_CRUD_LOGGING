@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\API (epiay)\\RELATIONAL_CRUD_LOGGING\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Hacixanov\\Desktop\\-RELATIONAL_CRUD_LOGGING\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\API (epiay)\\RELATIONAL_CRUD_LOGGING\\Domain\\Domain.csproj": {
+    "C:\\Users\\Hacixanov\\Desktop\\-RELATIONAL_CRUD_LOGGING\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\API (epiay)\\RELATIONAL_CRUD_LOGGING\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Hacixanov\\Desktop\\-RELATIONAL_CRUD_LOGGING\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\API (epiay)\\RELATIONAL_CRUD_LOGGING\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Hacixanov\\Desktop\\-RELATIONAL_CRUD_LOGGING\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Hacixanov\\.nuget\\packages\\",
-        "outputPath": "C:\\API (epiay)\\RELATIONAL_CRUD_LOGGING\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Hacixanov\\Desktop\\-RELATIONAL_CRUD_LOGGING\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

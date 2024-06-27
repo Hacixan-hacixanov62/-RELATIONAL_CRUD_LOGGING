@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jan4QqXobV4v3iKViL+WDQ5TEIr1fpW/+XLNcFyzi6cP7aoZ9PLO71RFJkqV93/ERm7lCOFVZiOaJNJDq6HuVw==",
+  "dgSpecHash": "+7X40nXdPS43jAzqyagHImFPHcp0ltA5XVuAKlMnGFWZv8pyZV/IEfzsITPqa3L/gGFQwAHA3iLQkJZMMWByHQ==",
   "success": true,
-  "projectFilePath": "C:\\API (epiay)\\RELATIONAL_CRUD_LOGGING\\RELATIONAL_CRUD_LOGGING\\RELATIONAL_CRUD_LOGGING.csproj",
+  "projectFilePath": "C:\\Users\\Hacixanov\\Desktop\\-RELATIONAL_CRUD_LOGGING\\RELATIONAL_CRUD_LOGGING\\RELATIONAL_CRUD_LOGGING.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hacixanov\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Hacixanov\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
